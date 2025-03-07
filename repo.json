@@ -1,0 +1,8 @@
+{
+    "name": "RecTv | @patr0n",
+    "description": "Türkçe",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+    ]
+}
